@@ -1,0 +1,65 @@
+_repo: Vilag-ura_75143
+_version: 0.0.1
+alternative_title: Maître du monde. Hungarian
+contributor:
+  illustrator:
+    agent_name: Roux, George
+    aliases:
+    - Roux, Georges
+    - Roux, G.
+    deathdate: 1929
+    gutenberg_agent_id: '41732'
+    url: http://www.gutenberg.org/2009/agents/41732
+    wikipedia:
+    - https://en.wikipedia.org/wiki/George_Roux
+    - https://fr.wikipedia.org/wiki/George_Roux_(illustrateur)
+  translator:
+    agent_name: Gábor, Andor
+    aliases:
+    - Gabor, Andor
+    - Greiner, Andor
+    birthdate: 1884
+    deathdate: 1953
+    gutenberg_agent_id: '56824'
+    url: http://www.gutenberg.org/2009/agents/56824
+    wikipedia: https://hu.wikipedia.org/wiki/G%C3%A1bor_Andor_(%C3%BAjs%C3%A1g%C3%ADr%C3%B3)
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Gyula
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jules_Verne
+    - https://pt.wikipedia.org/wiki/J%C3%BAlio_Verne
+    - https://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2025-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75143'
+language: hu
+pgterms:marc905: 20250112001822verne
+pgterms:marc906: '1906'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bFranklin-Társulat, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'North Carolina -- Fiction'
+- !lcsh 'Technological innovations -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Világ ura
+url: http://www.gutenberg.org/ebooks/75143
