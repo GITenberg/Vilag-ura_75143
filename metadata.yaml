@@ -23,6 +23,9 @@ contributor:
     gutenberg_agent_id: '56824'
     url: http://www.gutenberg.org/2009/agents/56824
     wikipedia: https://hu.wikipedia.org/wiki/G%C3%A1bor_Andor_(%C3%BAjs%C3%A1g%C3%ADr%C3%B3)
+covers:
+- cover_type: archival
+  image_path: 75143-h/images/cover.jpg
 creator:
   author:
     agent_name: Verne, Jules
@@ -40,6 +43,8 @@ creator:
     - https://pt.wikipedia.org/wiki/J%C3%BAlio_Verne
     - https://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75143#Vilag-ura
 gutenberg_issued: '2025-01-19'
 gutenberg_type: Text
 identifiers:
